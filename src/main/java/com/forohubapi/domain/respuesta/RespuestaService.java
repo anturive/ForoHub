@@ -2,7 +2,7 @@ package com.forohubapi.domain.respuesta;
 
 import com.forohubapi.domain.topico.TopicoService;
 import com.forohubapi.domain.usuario.UsuarioService;
-import com.forohubapi.infra.DatosInexistentes;
+import com.forohubapi.infra.errors.DatosInexistentes;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

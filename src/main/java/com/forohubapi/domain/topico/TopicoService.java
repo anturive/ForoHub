@@ -2,8 +2,8 @@ package com.forohubapi.domain.topico;
 
 import com.forohubapi.domain.curso.CursoService;
 import com.forohubapi.domain.usuario.UsuarioService;
-import com.forohubapi.infra.DatosExistentes;
-import com.forohubapi.infra.DatosInexistentes;
+import com.forohubapi.infra.errors.DatosExistentes;
+import com.forohubapi.infra.errors.DatosInexistentes;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

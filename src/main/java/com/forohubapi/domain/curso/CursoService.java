@@ -1,6 +1,6 @@
 package com.forohubapi.domain.curso;
 
-import com.forohubapi.infra.DatosExistentes;
+import com.forohubapi.infra.errors.DatosExistentes;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
