@@ -26,7 +26,3 @@ Se requiere de un token para probar la API
 - Post (Registrar un topico)
 - Put (Actualizar un topico)
 - Delete (Eliminar fisicamente el topico en la Base de datos)
-
-## Base de datos
-
-![forohub-bd](src/main/java/com/forohubapi/assets/bd.png)
